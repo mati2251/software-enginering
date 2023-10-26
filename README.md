@@ -1,2 +1,2 @@
-# software-enginering
+# Lorem Ipsum
 Mateusz Karłowski
